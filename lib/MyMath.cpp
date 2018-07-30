@@ -14,3 +14,8 @@ int MyMath::Mult(int a, int b)
 {
   return a * b;
 }
+
+double MyMath::Div(int a, int b)
+{
+  return a / b;
+}
