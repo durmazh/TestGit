@@ -19,3 +19,7 @@ double MyMath::Div(int a, int b)
 {
   return a / b;
 }
+int MyMath::Add(int a, int b)
+{
+  return a + b;
+}
