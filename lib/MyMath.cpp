@@ -10,7 +10,7 @@ MyMath::~MyMath()
 
 }
 
-int MyMath::MyMath(int a, int b)
+int MyMath::Mult(int a, int b)
 {
   return a * b;
 }
